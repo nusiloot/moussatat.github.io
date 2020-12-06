@@ -769,7 +769,7 @@ pre {
 }
 
 /* --- Notification boxes --- */
-.box-note, .box-warning, .box-error, .box-success {
+.box-note, .box-warning, .box-error, .box-success, .box-section {
   padding: 15px 15px 15px 10px;
   margin: 20px 05px 20px 5px;
   border: 1px solid #eee;
@@ -797,6 +797,10 @@ pre {
   border-left-color: #139a9a;
 }
 
+.box-section {
+  background-color: #ffc7c7 ;
+  border-left-color: #a00000;
+}
 /* Fix table border github gist snippets */
 
 .gist, .gist-file table tr {

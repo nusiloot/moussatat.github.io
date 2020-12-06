@@ -14,10 +14,9 @@ pagination:
   {% endfor %}
 </ul></div>
 
-{: .box-success} 
+{: .box-section} 
 # Progression
 
-{: .box-note} 
 ## du 1 Sep au 16 Oct 2020
 - **Chapitre 1 Ensembles et calcul littéral** [cours <i class="far fa-file-pdf"></i>](https://drive.google.com/file/d/1HBePdXM4Zrsvat0ilOVBfWRf3b1EipC5/view) et [exercices <i class="far fa-file-pdf"></i>](https://drive.google.com/file/d/1fZUhrG98iwk9b8pNNVTxKZ4jo4HzW45b/view) 
 	- [x] Puissances et *évaluation 1* [Sujets A <i class="far fa-file-pdf"></i>](https://drive.google.com/file/d/10GUjz66tEMPPZKShdgU54kTP-bkLd_8n/view) et [B <i class="far fa-file-pdf"></i>](https://drive.google.com/file/d/1jeb-pysrCHl6tThX7wGcsk6Jjw3fRoei/view)
@@ -28,13 +27,13 @@ pagination:
 	- [x] Équations produit nul
 	- [ ] ~~Équations rationnelles~~ [<i class="far fa-file-pdf"></i>](https://drive.google.com/file/d/1AaVtMuvGltXesJYtzgy2-yajp0t7_RCM/view)
 - [x] **DS 01** [Sujet B <i class="far fa-file-pdf"></i>](https://drive.google.com/file/d/1_BdREMpRBTGovFQuk7tDRA-xo1UP2Cq8/view)
-- [ ] **Chapitre 2 Arithmétique** [cours <i class="far fa-file-pdf"></i>](https://drive.google.com/file/d/1lKQWPMRT9OSInY9RttiMpfPpXw8fpgF8/view) et [exercices <i class="far fa-file-pdf"></i>](https://drive.google.com/file/d/1cYnDREmsqZmqMhK7vd30lsePC-f7XOi3/view)  
+- [x] **Chapitre 2 Arithmétique** [cours <i class="far fa-file-pdf"></i>](https://drive.google.com/file/d/1lKQWPMRT9OSInY9RttiMpfPpXw8fpgF8/view) et [exercices <i class="far fa-file-pdf"></i>](https://drive.google.com/file/d/1cYnDREmsqZmqMhK7vd30lsePC-f7XOi3/view)  
 	- [x] Arithmétique et nombres premiers
 	- [x] Ensembles de nombres et raisonnements par l'absurde
 	- [ ] ~~La racine carré~~ [<i class="far fa-file-pdf"></i>](https://drive.google.com/file/d/1U7rfkNwj3SI9RJev_1WcE-yn4hHFckwM/view) 
 - [x] **DM 01**  [<i class="far fa-file-pdf"></i>](https://drive.google.com/file/d/10lLzV1GCbwEk6MX4f9uMMIwELV6R3kA4/view)   
     
-{: .box-note} 
+
 ## du 2 Nov au 18 Dec 2020 
 - **Automatismes** :
 	- [ ] Équations rationnelles [<i class="far fa-file-pdf"></i>](https://drive.google.com/file/d/1AaVtMuvGltXesJYtzgy2-yajp0t7_RCM/view)
@@ -50,24 +49,24 @@ pagination:
 - [x] **Évaluation 2** [**ROC**](https://drive.google.com/file/d/1d87qF7StX5K26rD2yeru5941Tn0S-i1j/view)
 - [ ] **DS 02** [Sujet A <i class="far fa-file-pdf"></i>]()
 
-{: .box-note} 
+
 ## du 4 Jan au 5 Fév 2021 
 
-{: .box-note} 
+ 
 ## du 22 Fév au 9 Avril 2021 
 
 
-{: .box-success} 
+{: .box-section}  
 # Les 13 démonstrations exigibles dans la classe de 2G&T
 
 1. [x] Le nombre \\(\frac{1}{3}\\)  n’est pas décimal. 
 1. [x] Le nombre \\(\sqrt{2}\\) est irrationnel. 
 1. [x] Quel que soit le réel \\(a\\), la somme de deux multiples entiers de \\(a\\) est un multiple de \\(a\\).
 1. [x] Le carré d’un entier impair est un entier impair.
-1. [x] Quels que soient les réels positifs \\(a\\) et \\(b\\) on a : \\(\sqrt{ab}=\sqrt{a} \sqrt{b}\\).
-1. [x] Pour tous réels \\(a\\) et \\(b\\) strictement positifs, on a : \\( \sqrt{a+b} \leqslant \sqrt{a} + \sqrt{b} \\).
+1. [x] Quels que soient les réels positifs \\(a\\) et \\(b\\) : \\(\sqrt{ab}=\sqrt{a} \sqrt{b}\\)​.
+1. [x] Pour tous réels \\(a\\) et \\(b\\) strictement positifs : \\(\sqrt{a+b} \leqslant \sqrt{a} + \sqrt{b}\\).
 1. [x] Illustration géométrique de l’identité remarquable \\((a+b)^2 = a^2 + 2ab + b^2\\) lorsque \\(a\\) et \\(b\\) sont strictement positifs.
-1. [ ] Deux vecteurs (du plan) sont colinéaires si et seulement si leur déterminant est nul.
+1. [ ] Deux vecteurs (du plan) sont colinéaires ssi leur déterminant est nul.
 1. [ ] Le projeté orthogonal d’un point \\(M\\) sur une droite \\(\Delta\\) est le point de la droite \\(\Delta\\)  le plus proche du point \\(M\\).
 1. [ ] Relation trigonométrique *pythagoricienne* \\(\cos^2(\alpha) + \sin^2(\alpha) =1\\) dans un triangle rectangle.
 1. [ ] En utilisant le déterminant, établir la forme générale d’une équation de droite, dans le plan.
