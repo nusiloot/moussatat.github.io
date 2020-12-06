@@ -6,6 +6,7 @@ pagination:
   category: 2c 
 ---
 
+{: .box-section} 
 # Derniers billets
 
 <div>
@@ -56,7 +57,7 @@ pagination:
 
 ## du 22 Fév au 9 Avril 2021 
 
-{: .box-success} 
+{: .box-section} 
 # Les 13 démonstrations exigibles dans la classe de 2G&T
 
 1. [x] Le nombre \\(\frac{1}{3}\\)  n’est pas décimal. 

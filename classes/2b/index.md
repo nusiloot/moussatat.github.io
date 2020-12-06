@@ -5,6 +5,8 @@ pagination:
   enabled: true
   category: 2b
 ---
+
+{: .box-section} 
 # Derniers billets
 
 <div>

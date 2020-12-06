@@ -1,6 +1,6 @@
 ---
 layout: post 
-categories: ['classes','SNT']
+categories: ['classes',' ']
 title: "Séquence 2 : Les réseaux sociaux"
 subtitle: "le cours"
 date: 2021-01-08
