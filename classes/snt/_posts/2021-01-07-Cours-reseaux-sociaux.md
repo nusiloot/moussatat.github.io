@@ -4,7 +4,7 @@ categories: ['classes',' ']
 title: "Séquence 2 : Les réseaux sociaux"
 subtitle: "le cours"
 date: 2021-01-08
-tags: [snt] 
+tags: [ ] 
 comments: false
 social-share: false
 ---
