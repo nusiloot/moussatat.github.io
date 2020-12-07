@@ -59,7 +59,7 @@ pagination:
 
 
 {: .box-section}  
-# Les 13 démonstrations exigibles dans la classe de 2G&T
+# Les 13 démonstrations exigibles
 
 1. [x] Le nombre \\(\frac{1}{3}\\)  n’est pas décimal. 
 1. [x] Le nombre \\(\sqrt{2}\\) est irrationnel. 
